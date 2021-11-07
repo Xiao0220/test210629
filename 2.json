@@ -74,7 +74,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties":  {"name":"海城市"},
       "geometry": {
         "type": "Point",
         "coordinates": [
